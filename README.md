@@ -11,7 +11,7 @@ Bot lọc tin nhắn tự động cho nhóm Telegram với AI cục bộ (không
 ## Cài đặt
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/telegram-filter-bot.git
+git clone https://github.com/gtieniosvn/Telegram-Bot.git
 cd telegram-filter-bot
 pip install -r requirements.txt
 python bot.py
